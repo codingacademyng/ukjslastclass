@@ -1,0 +1,4 @@
+
+git init
+git remote add origin https://github.com/codingacademyng/ukjslastclass.git
+git add *
